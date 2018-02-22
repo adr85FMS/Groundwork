@@ -1,0 +1,44 @@
+company:
+  name: Team Groundwork
+  logo: 
+tags:
+  - GovTech
+  - Municipal Infrastructure
+  - Smart Cities
+  - Civic Tech
+
+product_narrative: |
+ Groundwork aligns capital access and decision making  within government in order to improve quality of life.
+team:
+  picture: E383E868-.jpg
+  roster:
+  - name: Michael Bloomberg
+    email: meb427@cornell.edu
+    picture: mike.png
+    program: MBA
+  - name: Aleo Mok
+    email: anm232@cornell.edu
+    picture: aleo.png
+    program: CS
+  - name: Noopur Parikh
+    email: np44@cornell.edu
+    picture: noopur.png
+    program: CM
+  - name: Carolina Peisch
+    email: cgp48@cornell.edu
+    picture: carolina.png
+    program: CM
+  - name: Andy Rudd
+    email: adr85@cornell.edu
+    picture: andy.png
+    program: MBA
+
+assets:
+- title: Sprint 1
+  url: https://docs.google.com/presentation/d/1RCBddytionJs7tOh3b7r5m2d4RSGxYJ6n9E0NbQd4ys/edit?usp=sharing
+- title: Sprint 2
+  url:
+- title: Sprint 3
+  url:
+- title: Final
+  url:
